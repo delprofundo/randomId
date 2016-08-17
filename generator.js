@@ -1,6 +1,6 @@
 /*
  *  Random 10 digit number generator. outputs string.
- *  based on epoch. very simple, there is a small amount of collision overtime
+ *  based on epoch. very simple, there is a small amount of collision over time
  *  author: delProfundo (bruno@hypermedia.tech)
  *  date: 17 August 2016
  */
