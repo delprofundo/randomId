@@ -1,0 +1,11 @@
+{
+  "name": "itoc-id",
+  "version": "1.0.0",
+  "description": "generates random ID based on ms since epoch",
+  "main": "machine.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "delProfundo",
+  "license": "MIT"
+}
