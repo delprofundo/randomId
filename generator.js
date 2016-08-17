@@ -4,7 +4,7 @@
    exports.generateId = function generateId(cb){
     var millis =  (new Date).getTime();
 
-    var test = millis.toString();
-    cb (null, test.substr(3, 10));
+    var millis_str = millis.toString();
+    cb (null, millis_str.substr(3, 10));
   }
 })();
