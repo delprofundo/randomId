@@ -1,3 +1,8 @@
+/*
+ *  Harness that allows the execution of the generator.js module.
+ *  author: delProfundo (bruno@hypermedia.tech)
+ *  date: 17 August 2016
+ */
 (function(){
   "use strict";
   //load Generator function
